@@ -137,14 +137,6 @@ export default {
           "frame": "Everest",
           "mech": "Ultimate Lifeform"
         },
-        {
-          "callsign": "Razor",
-          "alias": "Azure Oracles",
-          "code": "9EYZBV",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Ultimate Lifeform"
-        },
       ],
       "header": {
         "planet": "Ektos",
