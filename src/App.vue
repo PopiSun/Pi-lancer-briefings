@@ -114,45 +114,45 @@ export default {
           "callsign": "Ice Princess",
           "alias": "Lusiv Bird",
           "code": "HXWYLT",
-          "corpro": "GMS",
-          "frame": "Everest",
+          "corpro": "IPS-N",
+          "frame": "Kidd",
           "mech": "Agent of Entropy"
         },
         {
           "callsign": "Big Daddy",
           "alias": "Théodore Doubidou",
           "code": "LCK7D8",
-          "corpro": "GMS",
-          "frame": "Everest",
+          "corpro": "Harrison Armory",
+          "frame": "",
           "mech": "BIG DADY!!!!!!"
         },
         {
           "callsign": "Védé",
           "alias": "Mevline Masiello",
           "code": "NXCNXZ",
-          "corpro": "GMS",
-          "frame": "Everest",
+          "corpro": "Horus",
+          "frame": "Pegasus",
           "mech": "Dusk to Dawn"
         },
          {
           "callsign": "Razor",
           "alias": "Azure Oracles",
           "code": "9EYZBV",
-          "corpro": "GMS",
-          "frame": "Everest",
+          "corpro": "Smitch-Shimano Corporation",
+          "frame": "Metalmark",
           "mech": "Ultimate Lifeform"
         },
       ],
       "header": {
         "planet": "Kibo",
         "year": "5014u",
-        "system": "Arusha o62ak5955",
-        "gate": "Sierra Madre Ollum",
+        "system": "Arusha o2a55",
+        "gate": "S.M. Cresta",
         "ring": "Sierra Madre Line",
         "headerTitle": "UNION DoJ/HR",
         "headerSubtitle": "Mercenary Squad",
         "subheaderTitle": "Investigate",
-        "subheaderSubtitle": "SIREN'S SONG : A MOUTAIN'S REMORSE",
+        "subheaderSubtitle": "A MOUTAIN'S REMORSE",
       },
       "options":{
         "eventsMarkdownPerMission": true
