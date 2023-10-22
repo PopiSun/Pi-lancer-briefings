@@ -149,10 +149,10 @@ export default {
         "system": "Fronus",
         "gate": "Cascade-Hood",
         "ring": "Cascade-Line",
-        "headerTitle": "YOLOON",
+        "headerTitle": "UNION DoJ/HR",
         "headerSubtitle": "Mercenary Squad",
         "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "BRASS WILL",
+        "subheaderSubtitle": "SIREN'S SONG : A MOUTAIN'S REMORSE",
       },
       "options":{
         "eventsMarkdownPerMission": true
