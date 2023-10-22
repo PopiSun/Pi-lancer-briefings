@@ -101,6 +101,11 @@ export default {
         {
           "slug": "002",
           "name": "EMERGENCY DEFENDERS",
+          "status": "success"
+        },
+                {
+          "slug": "003",
+          "name": "SIREN'S SONG",
           "status": "start"
         },
       ],
