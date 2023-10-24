@@ -105,7 +105,7 @@ export default {
         },
                 {
           "slug": "003",
-          "name": "SIREN'S SONG",
+          "name": "MISPLACED",
           "status": "start"
         },
       ],
@@ -122,8 +122,8 @@ export default {
           "callsign": "Big Daddy",
           "alias": "Théodore Doubidou",
           "code": "LCK7D8",
-          "corpro": "Harrison Armory",
-          "frame": "",
+          "corpro": "GMS",
+          "frame": "Everest",
           "mech": "BIG DADY!!!!!!"
         },
         {
